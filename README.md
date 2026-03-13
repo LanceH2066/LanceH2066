@@ -33,6 +33,8 @@ I'm actively growing toward a career in **IT support**, **systems administration
 
 ### 🖥️ Active Directory Home Lab
 A virtualized enterprise IT environment built to simulate real-world sysadmin workflows.
+**Github Project:** https://github.com/LanceH2066/ActiveDirectoryLab
+
 - Configured Windows Server with a domain controller, DNS, and DHCP
 - Set up Group Policy Objects (GPOs) and managed users and organizational units (OUs)
 - Documented the full setup process — see the repo for step-by-step notes

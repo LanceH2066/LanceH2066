@@ -40,7 +40,7 @@ A virtualized enterprise IT environment built to simulate real-world sysadmin wo
 - Documented the full setup process — see the repo for step-by-step notes
 
 ### 🌐 Boot Camp Therapy Mentorship Program Website
-**Live site:** [bootcamptherapy.org](https://bootcamptherapy.org/)
+**Live Site:** [bootcamptherapy.org](https://bootcamptherapy.org/)
 
 A full production website I built, deployed, and continue to host and maintain for a local nonprofit.
 - Built with HTML, CSS, and JavaScript

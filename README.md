@@ -8,11 +8,11 @@
 
 ## About Me
 
-I'm a B.S. Computer Science graduate from California State University, Fresno, currently working as a trained **ARA (Advanced Repair Agent) Technician** at Best Buy Geek Squad. I specialize in hardware and software repair, OS troubleshooting, and device diagnostics across Windows, iPhones, and Android devices.
+I'm a B.S. Computer Science graduate from California State University, Fresno, currently working as a trained **ARA (Advanced Repair Agent) Technician** at Best Buy Geek Squad. I specialize in hardware and software repair, OS troubleshooting, and device diagnostics across Windows, MacOS, Linux, iPhones, and Android devices.
 
 Outside of work, I build home lab projects to sharpen my systems administration skills, and I designed, deployed, and currently host the production website for **Boot Camp Therapy Mentorship Program**, a Fresno-based nonprofit organization.
 
-I'm actively growing toward a career in **systems administration** or **network engineering**.
+I'm actively growing toward a career in **IT support**, **systems administration**, or **network engineering**.
 
 ---
 
